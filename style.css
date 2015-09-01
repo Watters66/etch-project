@@ -1,0 +1,41 @@
+body {
+	font-family: arial, sans-serif;
+	text-align: center;
+	min-width: 970px;
+	margin: 0px;}
+.grid {
+	width: 700;
+	height: 700;
+	margin: 0px auto 20px auto;}
+.navLeft {
+	display: inline;
+	padding: 0px;
+	float: left;}
+.navRight {
+	display: inline;
+	padding: 0px;
+	float: right;}
+.a {
+	display: inline;
+	margin: 0px 0px;
+	padding: 12px;
+	background-color: gray;
+	color: white;
+	border: 2px solid black;
+	float: left;
+	height: 20px;}
+.a:hover {
+	background-color: black;}
+.footer {
+	text-align: center;
+	width: 970px;
+	margin: auto;
+	padding: 0px;}
+.size {
+	width: 20px;}
+.pixel{
+	float: left;
+	display: inline-block;
+	background-color: black;}
+.active {
+	background-color: black;}
