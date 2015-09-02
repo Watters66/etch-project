@@ -32,7 +32,8 @@ body {
 	margin: auto;
 	padding: 0px;}
 .size {
-	width: 20px;}
+	width: 20px;
+	margin-left: 10px;}
 .pixel{
 	float: left;
 	display: inline-block;

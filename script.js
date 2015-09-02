@@ -26,7 +26,7 @@ $(document).ready(function() {
 
 	var solid = false;
 	var fade = true;
-	$(".pixel").mouseover(function() {
+	$(document).on("mouseover", ".pixel", function() {
 		if (solid) {
 			this.style.opacity = 1;
 		}
